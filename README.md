@@ -1,2 +1,89 @@
 # MedicalPlus
-Modern healthcare landing page built with HTML, CSS &amp; JavaScript, featuring responsive design, medical services, specialist profiles, appointment booking, and a clean professional UI.
+
+A modern healthcare landing page designed to present medical services, specialists, and patient-focused healthcare solutions through a clean and responsive interface.
+
+## Overview
+
+MedicalPlus is a responsive healthcare website concept built with a professional medical-focused UI. The project combines structured content, modern layouts, specialist profiles, service cards, appointment-focused sections, and responsive interactions.
+
+## Features
+
+* Responsive healthcare landing page
+* Modern medical UI design
+* Hero section with professional search
+* Medical services cards
+* Specialist profiles
+* Why MedicalPlus feature section
+* Appointment-focused CTAs
+* Pricing section
+* Newsletter subscription section
+* Responsive navigation
+* Mobile-friendly layout
+* Scroll reveal animations
+* Unsplash photography
+
+## Built With
+
+* HTML5
+* CSS3
+* JavaScript
+* Unsplash
+
+## Sections
+
+* Top Bar
+* Header
+* Primary Navigation
+* Hero
+* Professional Search
+* Healthcare Content
+* Medical Services
+* Why MedicalPlus
+* Call to Action
+* Who We Are
+* Our Specialists
+* Pricing
+* Newsletter
+* Footer
+
+## Links
+
+* **Live Demo:** `YOUR_LIVE_DEMO_URL`
+* **GitHub Repository:** `YOUR_GITHUB_REPOSITORY_URL`
+* **CodePen:** `YOUR_CODEPEN_URL`
+* **Portfolio:** `YOUR_PORTFOLIO_URL`
+
+## Screenshots
+
+Add project screenshots here:
+
+```text
+screenshots/
+├── desktop.png
+├── tablet.png
+└── mobile.png
+```
+
+## Project Structure
+
+```text
+medicalplus/
+├── index.html
+├── README.md
+└── screenshots/
+    ├── desktop.png
+    ├── tablet.png
+    └── mobile.png
+```
+
+## Purpose
+
+This project was created as a front-end design and development project to explore a complete healthcare landing page, combining visual design, responsive development, interaction, and structured user experience.
+
+## Author
+
+**DESIGN & DEVELOPER BY SINA REZAEI**
+
+---
+
+© 2026 Sina Rezaei. All rights reserved.
