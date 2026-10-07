@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="MedicalPlus.jpg" alt="MedicalPlus" width="100%">
-</p>
+<p align="center"> <img src="MediacalPlus.jpg" alt="MedicalPlus" width="100%"> </p>
 
 # MedicalPlus
 
