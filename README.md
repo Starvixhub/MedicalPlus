@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="MediacalPlus.jpg" alt="MedicalPlus" width="100%">
+</p>
+
 # MedicalPlus
 
 A modern healthcare landing page designed to present medical services, specialists, and patient-focused healthcare solutions through a clean and responsive interface.
