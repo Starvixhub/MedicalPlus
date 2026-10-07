@@ -10,6 +10,14 @@ A modern healthcare landing page designed to present medical services, specialis
 
 MedicalPlus is a responsive healthcare website concept built with a professional medical-focused UI. The project combines structured content, modern layouts, specialist profiles, service cards, appointment-focused sections, and responsive interactions.
 
+## Screenshots
+
+<p align="center">
+  <img src="starvixhub-github-io-MedicalPlus.png" alt="MedicalPlus" width="100%">
+</p>
+
+
+
 ## Features
 
 * Responsive healthcare landing page
@@ -50,16 +58,11 @@ MedicalPlus is a responsive healthcare website concept built with a professional
 * Newsletter
 * Footer
 
-## Links
+## Live Demo
 
-* **Live Demo:** `YOUR_LIVE_DEMO_URL`
-* **GitHub Repository:** `YOUR_GITHUB_REPOSITORY_URL`
-* **CodePen:** `YOUR_CODEPEN_URL`
-* **Portfolio:** `YOUR_PORTFOLIO_URL`
+* 🌐 **GitHub Pages:** https://starvixhub.github.io/MedicalPlus/
+* 🎨 **CodePen:** https://codepen.io/editor/sinarezaei/pen/01a11189-3662-7d9d-b2e0-b3aab2d10450
 
-## Screenshots
-
-Add project screenshots here:
 
 ```text
 screenshots/
