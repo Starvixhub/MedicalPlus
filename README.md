@@ -60,8 +60,8 @@ MedicalPlus is a responsive healthcare website concept built with a professional
 
 ## Live Demo
 
-* 🌐 **GitHub Pages:** https://starvixhub.github.io/MedicalPlus/
-* 🎨 **CodePen:** https://codepen.io/editor/sinarezaei/pen/01a11189-3662-7d9d-b2e0-b3aab2d10450
+* [🌐 GitHub Pages](https://starvixhub.github.io/MedicalPlus/)
+* [🎨 CodePen](https://codepen.io/editor/sinarezaei/pen/01a11189-3662-7d9d-b2e0-b3aab2d10450)
 
 
 ```text
@@ -86,6 +86,16 @@ medicalplus/
 ## Purpose
 
 This project was created as a front-end design and development project to explore a complete healthcare landing page, combining visual design, responsive development, interaction, and structured user experience.
+
+---
+
+## License
+
+This project is created as a personal design and development experiment.
+
+Feel free to study the implementation and use the ideas as inspiration. Please do not present the original design or implementation as your own work.
+
+---
 
 ## Author
 
